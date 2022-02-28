@@ -1,7 +1,5 @@
 # McMaster-Design-League-Designathon-2021
 
-## This section contains posters for ....
-
 # 1 MDL Exec Merch 2021
 <img src="/mdl_merch.png" width="480" height="330">
 
