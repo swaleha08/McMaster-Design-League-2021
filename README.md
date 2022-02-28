@@ -3,7 +3,7 @@
 ## This section contains posters for ....
 
 # 1 MDL Exec Merch 2021
-<img src="/mdl_merch.png" width="500" height="330">
+<img src="/mdl_merch.png" width="480" height="330">
 
 # 2 MDL CAD Workshop 2020
 <img src="/Image4.jpeg" width="420" height="240">
