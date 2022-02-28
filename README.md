@@ -33,13 +33,9 @@
 
 <img src="/Image13.jpeg" width="320" height="320">
 
-<img src="/Image13.jpeg" width="320" height="320">
 
 <img src="/Image14.jpeg" width="320" height="320">
 
-<img src="/Image15.jpeg" width="320" height="320">
-
-<img src="/Image16.jpeg" width="320" height="320">
 
 
 
